@@ -8,5 +8,3 @@ iwconfig wlan0 mode Monitor
 iwconfig
 aireplay-ng --test wlan0
 #iwconfig wlan0 mode Managed
-
-# test line
