@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "PLEASE CONNECT YOUR ALFA  NETWORK DEVICE & IT WILL AUTOMATICALLY CONNECTED AFTER GETTING SIGNAL"
-sleep 19
+sleep 10
 lsusb
 iwconfig
 airmon-ng check kill
